@@ -59,5 +59,10 @@ Der Programmcode wurde wesentlich in 3 Bereichen unterteilt:
 
 
 ## Verwendung
+Terminal starten und zum Verzeichnis der Java-Datei navigieren.
+```
+javac DijkstraAlgorithmus.java
 
+java DijkstraAlgorithmus.java
+```
 Durch das Ausführen von DijkstraAlgorithmus.java wird die Hauptmethode gestartet und der Benutzer kann aus den 19 Stationen, welche in die Konsole gedruckt werden, auswählen.
